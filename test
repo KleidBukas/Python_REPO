@@ -1,0 +1,5 @@
+print('Hello')
+
+if command =='Close'
+print('enter command')
+command = input()
