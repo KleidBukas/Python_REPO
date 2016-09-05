@@ -22,5 +22,7 @@ if data == 'Squat':
 elif data == 'Bench':
     print(Bench[select])
 
+    #
+
 
 
